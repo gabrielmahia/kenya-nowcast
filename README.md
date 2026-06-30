@@ -1,6 +1,6 @@
 # 🌍 Kenya County Economic Tracker
 
-**First county-level economic health tracker for all 47 Kenya counties using satellite nighttime light methodology.**
+County-level economic health tracker for all 47 Kenya counties — uses satellite nighttime light (VIIRS) following IMF machine-learning methodology to close the lag in sub-Saharan survey data.
 
 ## Research Basis
 - **IMF Working Paper 2026/020** — "Nowcasting Economic Growth with Machine Learning and Satellite Data" (Fotopoulou et al., January 2026). Demonstrates random forest + nighttime satellite data outperforms traditional quarterly GDP models.
